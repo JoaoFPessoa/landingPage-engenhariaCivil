@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/paktour/static/js/main.a99bd26f.js",
-    "static/media/engenheiro3.png": "/paktour/static/media/engenheiro3.826a8dd31e62f7ea62b3.png",
-    "static/media/obra.jpg": "/paktour/static/media/obra.eddf99780e6abccfd568.jpg",
-    "static/media/logo-verde-branco.png": "/paktour/static/media/logo-verde-branco.bad4280f845f463a3f01.png",
-    "static/media/logo-simbolo.png": "/paktour/static/media/logo-simbolo.46d827b3df1bec3228fc.png",
-    "index.html": "/paktour/index.html",
-    "main.a99bd26f.js.map": "/paktour/static/js/main.a99bd26f.js.map"
+    "main.js": "/landingPage-engenhariaCivil/static/js/main.05ccc0cc.js",
+    "static/media/engenheiro3.png": "/landingPage-engenhariaCivil/static/media/engenheiro3.826a8dd31e62f7ea62b3.png",
+    "static/media/obra.jpg": "/landingPage-engenhariaCivil/static/media/obra.eddf99780e6abccfd568.jpg",
+    "static/media/logo-verde-branco.png": "/landingPage-engenhariaCivil/static/media/logo-verde-branco.bad4280f845f463a3f01.png",
+    "static/media/logo-simbolo.png": "/landingPage-engenhariaCivil/static/media/logo-simbolo.46d827b3df1bec3228fc.png",
+    "index.html": "/landingPage-engenhariaCivil/index.html",
+    "main.05ccc0cc.js.map": "/landingPage-engenhariaCivil/static/js/main.05ccc0cc.js.map"
   },
   "entrypoints": [
-    "static/js/main.a99bd26f.js"
+    "static/js/main.05ccc0cc.js"
   ]
 }
