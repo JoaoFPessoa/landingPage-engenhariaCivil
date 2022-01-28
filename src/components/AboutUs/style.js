@@ -24,7 +24,6 @@ color: #B8B8B8;
 margin-top: 1rem;
 @media(max-width: 600px){
     font-size: 0.8rem;
-    max-width: 380px;
 }
 `
 export const Article = styled.article`

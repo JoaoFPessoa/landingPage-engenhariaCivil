@@ -15,7 +15,7 @@ export const Img = styled.img`{
     width: 20rem;
     overflow-y: hidden;
     @media(max-width: 768px){
-        width: 300px;
+        width: 200px;
         height: 120px;
     }
 }
