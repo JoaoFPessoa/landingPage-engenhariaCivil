@@ -5,8 +5,8 @@ import aspas from '../../assets/images/aspas-branca.png'
 export default function AboutUs(){
     return (
     <Container>
-        <Title>Bem-vindo à Paktour</Title>
-        <Subtitle>Lema da empresa, lema da empresa random word.
+        <Title>Bem-vindo à Paktor</Title>
+        <Subtitle>Obra do seu jeito, com a qualidade que você merece.
         </Subtitle>
         <Article>
             <Img src={engenheiro} alt="engineer" />
