@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.js": "/landingPage-engenhariaCivil/static/js/main.2463208a.js",
-    "static/media/engenheiro3.png": "/landingPage-engenhariaCivil/static/media/engenheiro3.826a8dd31e62f7ea62b3.png",
+    "main.js": "/landingPage-engenhariaCivil/static/js/main.e59a4fa4.js",
+    "static/media/contrucao-services.jpeg": "/landingPage-engenhariaCivil/static/media/contrucao-services.20824432d3740a1d436c.jpeg",
+    "static/media/reforma-services.jpeg": "/landingPage-engenhariaCivil/static/media/reforma-services.dbfbfc9e4d914b0c6829.jpeg",
+    "static/media/header-img.jpeg": "/landingPage-engenhariaCivil/static/media/header-img.b62b5a26491e77644a79.jpeg",
     "static/media/obra.jpg": "/landingPage-engenhariaCivil/static/media/obra.eddf99780e6abccfd568.jpg",
+    "static/media/projeto-services.jpeg": "/landingPage-engenhariaCivil/static/media/projeto-services.343a86050ced6baa5eb2.jpeg",
+    "static/media/logo-footer2.png": "/landingPage-engenhariaCivil/static/media/logo-footer2.f991c0e980ff49b3a513.png",
+    "static/media/logo-cFundo.jpeg": "/landingPage-engenhariaCivil/static/media/logo-cFundo.b83d8913bb2d07fd9b0d.jpeg",
     "static/media/logo-verde-branco.png": "/landingPage-engenhariaCivil/static/media/logo-verde-branco.bad4280f845f463a3f01.png",
-    "static/media/logo-simbolo.png": "/landingPage-engenhariaCivil/static/media/logo-simbolo.46d827b3df1bec3228fc.png",
-    "static/media/cartao-fernando.png": "/landingPage-engenhariaCivil/static/media/cartao-fernando.24b895722571c28fb00c.png",
-    "static/media/cartao-gabriel.png": "/landingPage-engenhariaCivil/static/media/cartao-gabriel.f5d0b07733ab327aa5b1.png",
+    "static/media/world-icon.svg": "/landingPage-engenhariaCivil/static/media/world-icon.c6506f274e12aee0094c44c17d42f904.svg",
+    "static/media/instagram.svg": "/landingPage-engenhariaCivil/static/media/instagram.6ed2cb5264b2240800b4eca149b65721.svg",
+    "static/media/whatsapp3.svg": "/landingPage-engenhariaCivil/static/media/whatsapp3.a8758e360178c5fe752d129afeec0f6c.svg",
     "index.html": "/landingPage-engenhariaCivil/index.html",
-    "main.2463208a.js.map": "/landingPage-engenhariaCivil/static/js/main.2463208a.js.map"
+    "static/media/pin.svg": "/landingPage-engenhariaCivil/static/media/pin.2f15e69d8f507aa4c23ae9c3a5ce2290.svg",
+    "static/media/eye-icon.svg": "/landingPage-engenhariaCivil/static/media/eye-icon.9ac1a0e4252bdb5dcbfab2749e7d524f.svg",
+    "static/media/diamong-icon.svg": "/landingPage-engenhariaCivil/static/media/diamong-icon.a6b673ae1e3ad23e139f07622b264bae.svg",
+    "static/media/mail.svg": "/landingPage-engenhariaCivil/static/media/mail.0e360d89f55ba99cc1ef1d224e5829b2.svg",
+    "main.e59a4fa4.js.map": "/landingPage-engenhariaCivil/static/js/main.e59a4fa4.js.map"
   },
   "entrypoints": [
-    "static/js/main.2463208a.js"
+    "static/js/main.e59a4fa4.js"
   ]
 }
