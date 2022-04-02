@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/landingPage-engenhariaCivil/static/js/main.e59a4fa4.js",
+    "main.js": "/landingPage-engenhariaCivil/static/js/main.52495e6f.js",
     "static/media/contrucao-services.jpeg": "/landingPage-engenhariaCivil/static/media/contrucao-services.20824432d3740a1d436c.jpeg",
     "static/media/reforma-services.jpeg": "/landingPage-engenhariaCivil/static/media/reforma-services.dbfbfc9e4d914b0c6829.jpeg",
     "static/media/header-img.jpeg": "/landingPage-engenhariaCivil/static/media/header-img.b62b5a26491e77644a79.jpeg",
@@ -17,9 +17,9 @@
     "static/media/eye-icon.svg": "/landingPage-engenhariaCivil/static/media/eye-icon.9ac1a0e4252bdb5dcbfab2749e7d524f.svg",
     "static/media/diamong-icon.svg": "/landingPage-engenhariaCivil/static/media/diamong-icon.a6b673ae1e3ad23e139f07622b264bae.svg",
     "static/media/mail.svg": "/landingPage-engenhariaCivil/static/media/mail.0e360d89f55ba99cc1ef1d224e5829b2.svg",
-    "main.e59a4fa4.js.map": "/landingPage-engenhariaCivil/static/js/main.e59a4fa4.js.map"
+    "main.52495e6f.js.map": "/landingPage-engenhariaCivil/static/js/main.52495e6f.js.map"
   },
   "entrypoints": [
-    "static/js/main.e59a4fa4.js"
+    "static/js/main.52495e6f.js"
   ]
 }
