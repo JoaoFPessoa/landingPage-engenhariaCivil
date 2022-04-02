@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components' 
+import { createGlobalStyle } from "styled-components";
 
 export default createGlobalStyle`
 
@@ -6,13 +6,16 @@ export default createGlobalStyle`
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Sora', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
     overflow-x: hidden;
 }
 
 body {
     width: 100vw;
-    background: #191919;
+    height: 100vw;
+    background-image: url('../../assets/images/page-background.jpeg');
+    background: #202020;
+    background-size: cover; height: 100vh;
 }
-`
+`;
