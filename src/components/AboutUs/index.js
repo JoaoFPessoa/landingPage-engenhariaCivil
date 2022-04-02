@@ -18,7 +18,7 @@ export default function AboutUs() {
         Bem-vindo à <p>Paktor</p>
       </Title>
       <Subtitle>
-        " Obra do seu jeito, com a qualidade que você merece."
+        "A obra do seu jeito, com a qualidade que você merece."
       </Subtitle>
       <Article>
         <Img src={engenheiro} alt="engineer" />
