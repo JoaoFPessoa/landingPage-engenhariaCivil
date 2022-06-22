@@ -5,9 +5,8 @@ export const Container = styled.header`
   height: 100%;
   display: flex;
   @media (max-width: 768px) {
-    height: 130px;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
   }
 `;
 export const Img = styled.img`
@@ -16,8 +15,8 @@ export const Img = styled.img`
   overflow-y: hidden;
   margin-top: -30px;
   @media (max-width: 768px) {
-    width: 300px;
-    height: 200px;
+    width: 200px;
+    height: 150px;
   }
 `;
 export const NavBarContainer = styled.div`

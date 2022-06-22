@@ -13,7 +13,6 @@ export const Container = styled.div`
     height: 80px;
     cursor: pointer;
     transition: all 0.5s ease-in-out;
-    /* border: 3px solid #fff; */
   }
   .menu-btn-open .menu-btn_burger {
     transform: translateX(-50px);
@@ -25,6 +24,10 @@ export const Container = styled.div`
     background: #fff;
     border-radius: 5px;
     transition: all 0.5s ease-in-out;
+    @media (max-width: 768px) {
+      width: 40px;
+      height: 4px;
+    }
   }
   .menu-btn_burger::before,
   .menu-btn_burger::after {
@@ -35,6 +38,10 @@ export const Container = styled.div`
     background: #fff;
     border-radius: 5px;
     transition: all 0.5s ease-in-out;
+    @media (max-width: 768px) {
+      width: 40px;
+      height: 4px;
+    }
   }
   .menu-btn_burger::before {
     transform: translateY(-16px);
@@ -47,5 +54,28 @@ export const Container = styled.div`
   }
   .menu-btn-open .menu-btn_burger::after {
     transform: rotate(-45deg) translate(35px, 35px);
+  }
+`;
+
+export const MobileNavBar = styled.div`
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  left: 0px;
+  right: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  justify-content: space-around;
+  flex-flow: column nowrap;
+  width: 60%;
+  top: 0;
+  margin-top: 2rem;
+
+  a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 10px 0px;
   }
 `;
