@@ -4,9 +4,10 @@ export const Container = styled.div`
   margin-top: 10rem;
   display: flex;
   justify-content: center;
-  @media (max-width: 600px) {
+  @media (max-width: 768px) {
     flex-direction: column;
     margin-top: 5rem;
+    align-items: center;
   }
 `;
 export const Img = styled.img`
@@ -38,11 +39,9 @@ export const FirstArticle = styled.div`
   p {
     margin-left: 3rem;
   }
-  @media (max-width: 600px) {
+  @media (max-width: 768px) {
     width: 100%;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+    margin: 0;
     h1 {
       font-size: 1rem;
       margin-bottom: 1rem;
@@ -72,10 +71,11 @@ export const LastArticle = styled.div`
     margin-bottom: 5px;
     margin-left: 4rem;
   }
-  @media (max-width: 600px) {
+  @media (max-width: 768px) {
     width: 99%;
     justify-content: center;
     align-items: center;
+    margin: 0;
     h1 {
       font-size: 1rem;
     }

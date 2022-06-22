@@ -8,7 +8,6 @@ export default createGlobalStyle`
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
     font-size: 1rem;
-    overflow-x: hidden;
 }
 
 body {

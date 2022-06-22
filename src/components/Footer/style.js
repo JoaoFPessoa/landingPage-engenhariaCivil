@@ -1,35 +1,27 @@
 import styled from "styled-components";
 
-export const Container = styled.div``;
+export const Container = styled.div`
+  padding: 0 2rem;
+`;
 
 export const CardsContainer = styled.div`
   display: flex;
+  justify-content: space-between;
   border-top: 3px solid #00e174;
 `;
-export const Text = styled.p`
-  width: 250px;
-  font-style: italic;
-  color: white;
-  line-height: 2rem;
-  margin-top: 20px;
-  margin-left: 20px;
-  @media (max-width: 600px) {
-    display: none;
-  }
-`;
+
 export const MapContainer = styled.div`
-  width: 800px;
   margin-top: 0.5rem;
-  @media (max-width: 600px) {
+  iframe {
+    width: 90%;
+  }
+  @media (max-width: 768px) {
     display: none;
   }
 `;
 
 export const Logo = styled.img`
-  width: 500px;
-  height: 130px;
-  margin-left: 10%;
-  margin-top: 1rem;
+  width: 240px;
   @media (max-width: 600px) {
     display: none;
   }
@@ -38,11 +30,8 @@ export const Card = styled.div`
 display: flex;
 flex-direction: column;
 color: white;
-margin-right: 3rem;
 height: 200px;
-margin-top: 20px;
 justify-content: center;
-width: 100%;
 @media(max-width: 600px){
  width: 100%;  
  align-items: center; 
@@ -63,14 +52,14 @@ img {
 export const Copyright = styled.div`
   color: #b8b8b8;
   font-size: 0.8rem;
-  @media (max-width: 600px) {
+  @media (max-width: 768px) {
     display: none;
   }
 `;
 export const Row = styled.div`
   display: flex;
   margin-left: auto;
-  margin-right: 20px;
+  align-items: center;
   @media (max-width: 600px) {
     margin: 0;
     justify-content: center;

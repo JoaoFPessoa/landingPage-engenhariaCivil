@@ -11,22 +11,20 @@ export const Container = styled.header`
   }
 `;
 export const Img = styled.img`
-   {
-    height: 13rem;
-    width: 20rem;
-    overflow-y: hidden;
-    margin-top: -30px;
-    @media (max-width: 768px) {
-      width: 300px;
-      height: 200px;
-    }
+  height: 13rem;
+  width: 20rem;
+  overflow-y: hidden;
+  margin-top: -30px;
+  @media (max-width: 768px) {
+    width: 300px;
+    height: 200px;
   }
 `;
 export const NavBarContainer = styled.div`
   margin-left: auto;
   display: flex;
   align-items: center;
-  margin-right: 2rem;
+  margin-right: 3rem;
   margin-top: -20px;
 
   @media (max-width: 768px) {

@@ -1,6 +1,6 @@
-import { Container } from "../AboutUs/style";
 import "./style";
 import {
+  Container,
   Card,
   CardsContainer,
   Copyright,

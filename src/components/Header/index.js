@@ -1,5 +1,6 @@
 import { Container, Img, NavBarContainer } from "./style";
 import logo from "../../assets/images/logo-verde-branco.png";
+import BurgerIcon from "./HamburgerIcon";
 
 export default function Header() {
   return (
@@ -19,6 +20,7 @@ export default function Header() {
           Contato
         </a>
       </NavBarContainer>
+      <BurgerIcon />
     </Container>
   );
 }

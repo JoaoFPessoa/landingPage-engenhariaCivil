@@ -15,7 +15,7 @@ export const Title = styled.h1`
   color: #00e174;
   margin-bottom: 3.5rem;
 
-  @media (max-width: 600px) {
+  @media (max-width: 768px) {
     font-size: 1.4rem;
     margin-bottom: 1rem;
   }
@@ -24,7 +24,7 @@ export const ImagesFlexContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  @media (max-width: 600px) {
+  @media (max-width: 760px) {
     flex-direction: column;
   }
 `;
