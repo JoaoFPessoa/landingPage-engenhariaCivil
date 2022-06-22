@@ -1,6 +1,7 @@
 {
   "files": {
-    "main.js": "/landingPage-engenhariaCivil/static/js/main.52495e6f.js",
+    "main.css": "/landingPage-engenhariaCivil/static/css/main.8eb20739.css",
+    "main.js": "/landingPage-engenhariaCivil/static/js/main.c8ffd924.js",
     "static/media/contrucao-services.jpeg": "/landingPage-engenhariaCivil/static/media/contrucao-services.20824432d3740a1d436c.jpeg",
     "static/media/reforma-services.jpeg": "/landingPage-engenhariaCivil/static/media/reforma-services.dbfbfc9e4d914b0c6829.jpeg",
     "static/media/header-img.jpeg": "/landingPage-engenhariaCivil/static/media/header-img.b62b5a26491e77644a79.jpeg",
@@ -10,16 +11,18 @@
     "static/media/logo-cFundo.jpeg": "/landingPage-engenhariaCivil/static/media/logo-cFundo.b83d8913bb2d07fd9b0d.jpeg",
     "static/media/logo-verde-branco.png": "/landingPage-engenhariaCivil/static/media/logo-verde-branco.bad4280f845f463a3f01.png",
     "static/media/world-icon.svg": "/landingPage-engenhariaCivil/static/media/world-icon.c6506f274e12aee0094c44c17d42f904.svg",
-    "static/media/instagram.svg": "/landingPage-engenhariaCivil/static/media/instagram.6ed2cb5264b2240800b4eca149b65721.svg",
-    "static/media/whatsapp3.svg": "/landingPage-engenhariaCivil/static/media/whatsapp3.a8758e360178c5fe752d129afeec0f6c.svg",
+    "static/media/instagram.svg": "/landingPage-engenhariaCivil/static/media/instagram.2beb7181a4e099e85f62750b4521c2b4.svg",
+    "static/media/whatsapp3.svg": "/landingPage-engenhariaCivil/static/media/whatsapp3.04bad33a37a922221ddc8f75eab7a8c9.svg",
     "index.html": "/landingPage-engenhariaCivil/index.html",
-    "static/media/pin.svg": "/landingPage-engenhariaCivil/static/media/pin.2f15e69d8f507aa4c23ae9c3a5ce2290.svg",
+    "static/media/pin.svg": "/landingPage-engenhariaCivil/static/media/pin.a20e087b7b4fda60c17aefd47811a8a4.svg",
     "static/media/eye-icon.svg": "/landingPage-engenhariaCivil/static/media/eye-icon.9ac1a0e4252bdb5dcbfab2749e7d524f.svg",
     "static/media/diamong-icon.svg": "/landingPage-engenhariaCivil/static/media/diamong-icon.a6b673ae1e3ad23e139f07622b264bae.svg",
-    "static/media/mail.svg": "/landingPage-engenhariaCivil/static/media/mail.0e360d89f55ba99cc1ef1d224e5829b2.svg",
-    "main.52495e6f.js.map": "/landingPage-engenhariaCivil/static/js/main.52495e6f.js.map"
+    "static/media/mail.svg": "/landingPage-engenhariaCivil/static/media/mail.4b652415650f4f25de16d419dd90fd14.svg",
+    "main.8eb20739.css.map": "/landingPage-engenhariaCivil/static/css/main.8eb20739.css.map",
+    "main.c8ffd924.js.map": "/landingPage-engenhariaCivil/static/js/main.c8ffd924.js.map"
   },
   "entrypoints": [
-    "static/js/main.52495e6f.js"
+    "static/css/main.8eb20739.css",
+    "static/js/main.c8ffd924.js"
   ]
 }
