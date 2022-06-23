@@ -34,16 +34,16 @@ export default function Mission() {
       <LastArticle>
         <Img src={diamondIcon} />
         <h1>Valores</h1>
-        <ol>
-          <li>• Integridade</li>
-          <li>• Ética e transparencia </li>
-          <li>• Comprometimento e Responsabilidade</li>
-          <li>• Atitude e liderança </li>
-          <li>• Qualidade e Segurança </li>
-          <li>• Sustentabilidade</li>
-          <li>• Meritocracia </li>
-          <li>• Desenvolvimento e Inovação</li>
-        </ol>
+        <ul>
+          <li>Integridade</li>
+          <li>Ética e transparencia </li>
+          <li>Comprometimento e Responsabilidade</li>
+          <li>Atitude e liderança </li>
+          <li>Qualidade e Segurança </li>
+          <li>Sustentabilidade</li>
+          <li>Meritocracia </li>
+          <li>Desenvolvimento e Inovação</li>
+        </ul>
       </LastArticle>
     </Container>
   );
